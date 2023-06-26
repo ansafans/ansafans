@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Ansaf | Full Stack Software Engineer & Tech Enthusiast
 - ῗ ♥ Coding
-- ῗ learn & ⚽ with new techs
+- ῗ ♥ learn & ⚽ with new techs
 - ῗ ♥ build web and mobile apps
 
 #### Tech Stacks
