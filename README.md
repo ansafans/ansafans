@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://visitcount.itsvg.in/api?id=ansafans&icon=0&color=1)](https://visitcount.itsvg.in)
-
 ## Hey there! 👋 I'm **Ansaf**
 
 💻 **Senior Software Engineer** | 8+ years of experience (5 in frontend finesse)  
