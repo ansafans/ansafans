@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## **Hello** 👋  
-### **I'm Ansaf Abusalihu** – Welcome to my digital Playground 🚀
+# **Hello** 👋  
+## **I'm Ansaf** – Welcome to my digital Playground 🚀
 
 💻 **Senior Software Engineer** | 8+ years of experience (5 in frontend finesse)  
 🎯 *Perfectionist by nature* — every line of code must be clean, elegant, and purposeful  
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🧠 Obsessed with building **pixel-perfect interfaces** and smooth user experiences.
 ☕ Powered by coffee, curiosity, and the **passion** to make every line of code perfect.
 
-I don’t just code — I **craft**.
+> I don’t just code — I **craft**.
 
 Let’s build something flawless. 🚀
 
