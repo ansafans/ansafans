@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey **I'm Ansaf** – Welcome to my digital playground 🚀
+# Hey **I'm Ansaf** – Welcome to my digital playground.
 
 💻 **Senior Software Engineer** | 8+ years of experience (5 in frontend finesse)  
 
