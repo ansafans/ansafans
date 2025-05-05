@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🧠 Obsessed with building **pixel-perfect interfaces** and smooth user experiences.   
 ☕ Powered by coffee, curiosity, and the **passion** to make every line of code perfect.   
 
-> **Coding is my passion**, Great code isn’t just functional — it’s beautiful. Let’s build with purpose. 🚀
+**Coding is my passion**, Great code isn’t just functional — it’s beautiful. Let’s build with purpose. 🚀
 
 #### Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ansafans&theme=flat&no-frame=false&no-bg=false&margin-w=2&margin-h=2)
