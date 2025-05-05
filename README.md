@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![](https://visitcount.itsvg.in/api?id=ansafans&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### Hey there! 👋 I'm **Ansaf**
+## Hey there! 👋 I'm **Ansaf**
 
 💻 **Senior Software Engineer** | 8+ years of experience (5 in frontend finesse)  
 🎯 *Perfectionist by nature* — every line of code must be clean, elegant, and purposeful  
