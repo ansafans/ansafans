@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## **Hola, amigos!**  Welcome to "Ans" code playground! 🎮
+## **Hola! I'm Ansaf🎮
 
 💻 **Senior Software Engineer** | 8+ years of experience (5 in frontend finesse)  
 🎯 *Perfectionist by nature* — every line of code must be clean, elegant, and purposeful  
