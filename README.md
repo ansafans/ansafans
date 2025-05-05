@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🧠 Obsessed with building **pixel-perfect interfaces** and smooth user experiences.   
 ☕ Powered by coffee, curiosity, and the **passion** to make every line of code perfect.   
 
-> I don’t just code — I **craft**.
+> **Coding is my passion**, and every project is an opportunity to create something amazing. 
 
 Let’s build something flawless. 🚀
 
