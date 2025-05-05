@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 # Hey **I'm Ansaf** – Welcome to my digital playground 🚀
 
 💻 **Senior Software Engineer** | 8+ years of experience (5 in frontend finesse)  
+
 🎯 *Perfectionist by nature* — every line of code must be clean, elegant, and purposeful  
 ⚡ Specialist in **Angular** & **TypeScript**, with backend chops in **Node.js**, **PHP** and **Java**  
 🎨 Styling with **Tailwind CSS**, **Bootstrap**, and a love for beautiful UI.   
