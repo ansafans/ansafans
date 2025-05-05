@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **Coding is my passion**, great code isn’t just functional — it’s beautiful. Let’s build with purpose. 🚀
 
----
+--
 
 #### Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ansafans&theme=flat&no-frame=false&no-bg=false&margin-w=2&margin-h=2)
